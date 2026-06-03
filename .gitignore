@@ -1,4 +1,5 @@
 # プロジェクト固有の環境変数（URL・認証情報など）
+projects/*
 projects/*/.env
 !projects/*/.env.example
 
