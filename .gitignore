@@ -1,0 +1,12 @@
+# プロジェクト固有の環境変数（URL・認証情報など）
+projects/*/.env
+!projects/*/.env.example
+
+# テスト結果のエクスポート
+results/
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
